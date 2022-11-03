@@ -1,2 +1,2 @@
 # testDotenv
-Exercice de test des varibles d'environnement
+Exercice de test des variables d'environnement
